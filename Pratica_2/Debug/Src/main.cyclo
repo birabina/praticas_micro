@@ -1,0 +1,6 @@
+/home/kay/micro/Pratica_2/F1_Header/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+../Src/main.c:3:6:delay_debounce	2
+../Src/main.c:7:5:main	1
+../Src/main.c:39:6:EXTI1_IRQHandler	2
+../Src/main.c:47:6:EXTI2_IRQHandler	2
+../Src/main.c:55:6:EXTI9_5_IRQHandler	2
